@@ -1,0 +1,13 @@
+name: MyProject
+version: 1.0.0
+description: A simple YAML example
+author: Jane Doe
+
+dependencies:
+  - python: ">=3.8"
+  - flask: "^2.0"
+
+scripts:
+  start: python app.py
+  test: pytest
+
