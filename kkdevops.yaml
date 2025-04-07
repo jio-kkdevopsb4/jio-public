@@ -7,7 +7,4 @@ dependencies:
   - python: ">=3.8"
   - flask: "^2.0"
 
-scripts:
-  start: python app.py
-  test: pytest
 
